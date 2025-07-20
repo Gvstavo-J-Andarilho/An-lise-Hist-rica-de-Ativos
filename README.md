@@ -13,7 +13,10 @@ Este script em Python permite simular o crescimento de investimentos em diferent
 
 # 📥 Requisitos
 ## Instale as bibliotecas com *bash*:
-  *pip install yfinance pandas matplotlib openpyxl*
+  *pip install yfinance*
+  *pip install pandas*
+  *pip install matplotlib*
+  *pip install openpyxl*
 
 # ▶️ Como usar
 ## Execute o script com:
