@@ -29,6 +29,6 @@ Este script em Python permite simular o crescimento de investimentos em diferent
 7. Forma de saída dos dados: print, gráfico ou salvar Excel
 
 # 📂 Estrutura de Saída
-Data	Fechamento	Qtd_Comprada_Bruta	Qtd_Acumulada_Bruta	Qtd_Acumulada_Liquida
-2023-01-05    	23.45    	8    	8    	8
+Data	Fechamento	Qtd_Comprada_Bruta	Qtd_Acumulada_Bruta	Qtd_Acumulada_Liquida \n
+2023-01-05    	23.45    	8    	8    	8\n
 ...	              ...    	...	  ...	  ...
